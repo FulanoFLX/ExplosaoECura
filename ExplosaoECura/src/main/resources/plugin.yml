@@ -1,0 +1,7 @@
+name: Devtools
+version: '${project.version}'
+main: com.github.derick.devtools.Devtools
+commands:
+  inventario:
+  curar:
+
